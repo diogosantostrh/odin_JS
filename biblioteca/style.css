@@ -1,0 +1,36 @@
+body{
+    background-color: #ffe4c4;
+    font: 14px sans-serif;
+}
+
+header{
+    background-color: #ffb254;
+    font-size: 20px;
+    text-align: center;
+}
+
+div#adicionar{
+    border: 1px solid black;
+    float: left;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+div#resultado{
+    border: 1px solid black;
+    float: right;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+input#txtn,input#txta,input#txtp{
+    width: 400px;
+}
+input#btn_adicionar{
+    font-size: 30px;
+}
+
+footer{
+    background-color: #ffb254;
+    text-align: center;
+}
